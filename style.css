@@ -1,0 +1,331 @@
+@media (min-width: 1900px) and (max-width:2200px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .texto{
+        padding-top: 52vh;
+        padding-left: 7.5vw;
+    }
+    
+    .redes{
+        margin-top: -3vw;
+    }
+    
+    
+    h1{
+    padding-bottom: -3vw;
+    font-size: 6vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    h2{
+    font-size: 6vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    margin-top: -6.5vw;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    h3{
+    font-size: 3vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    margin-top: -6.5vw;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    .principal{
+        background-image: url("https://res.cloudinary.com/v-young/image/upload/v1656601403/Background_DBOX_axzbar.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+    }
+    }
+
+@media (min-width: 1600px) and (max-width:1900px) {
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.texto{
+    padding-top: 52vh;
+    padding-left: 7.5vw;
+}
+
+.redes{
+    margin-top: -3vw;
+}
+
+
+h1{
+padding-bottom: -3vw;
+font-size: 6vw;
+font-family: coolvetica,sans-serif;
+font-weight: 500;
+font-style: normal;
+color: white;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h2{
+font-size: 6vw;
+font-family: coolvetica,sans-serif;
+font-weight: 500;
+font-style: normal;
+color: white;
+margin-top: -6.5vw;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h3{
+font-size: 3vw;
+font-family: coolvetica,sans-serif;
+font-weight: 500;
+font-style: normal;
+color: white;
+margin-top: -6.5vw;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.principal{
+    background-image: url("https://res.cloudinary.com/v-young/image/upload/v1656601403/Background_DBOX_axzbar.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+}
+
+@media (min-width: 1300px) and (max-width:1600px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .texto{
+        padding-top: 49vh;
+        padding-left: 7.5vw;
+    }
+    
+    .redes{
+        margin-top: -3vw;
+    }
+    
+    
+    h1{
+    padding-bottom: -3vw;
+    font-size: 8vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    h2{
+    font-size: 8vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    margin-top: -9vw;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    h3{
+    font-size: 3vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    margin-top: -9vw;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    .principal{
+        background-image: url("https://res.cloudinary.com/v-young/image/upload/v1656601403/Background_DBOX_axzbar.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+    }
+    }
+
+    @media (min-width: 1000px) and (max-width:1300px) {
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        
+        .texto{
+            padding-top: 49vh;
+            padding-left: 7.5vw;
+        }
+        
+        .redes{
+            margin-top: -3vw;
+        }
+        
+        
+        h1{
+        padding-bottom: -3vw;
+        font-size: 8vw;
+        font-family: coolvetica,sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+        
+        h2{
+        font-size: 8vw;
+        font-family: coolvetica,sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        margin-top: -9vw;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+        
+        h3{
+        font-size: 3vw;
+        font-family: coolvetica,sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        margin-top: -9vw;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+        
+        .principal{
+            background-image: url("https://res.cloudinary.com/v-young/image/upload/v1656601403/Background_DBOX_axzbar.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100vw;
+            height: 100vh;
+        }
+        }
+
+        @media (min-width: 700px) and (max-width:1000px){
+            body{
+                margin: 0;
+                padding: 0;
+            }
+            
+            .texto{
+                padding-top: 49vh;
+                padding-left: 7.5vw;
+            }
+            
+            .redes{
+                margin-top: -3vw;
+            }
+            
+            
+            h1{
+            padding-bottom: -3vw;
+            font-size: 9vw;
+            font-family: coolvetica,sans-serif;
+            font-weight: 500;
+            font-style: normal;
+            color: white;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            }
+            
+            h2{
+            font-size: 9vw;
+            font-family: coolvetica,sans-serif;
+            font-weight: 500;
+            font-style: normal;
+            color: white;
+            margin-top: -9.5vw;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            }
+            
+            h3{
+            font-size: 4vw;
+            font-family: coolvetica,sans-serif;
+            font-weight: 500;
+            font-style: normal;
+            color: white;
+            margin-top: -9.5vw;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            }
+            
+            .principal{
+                background-image: url("https://res.cloudinary.com/v-young/image/upload/v1656601403/Background_DBOX_axzbar.png");
+                background-repeat: no-repeat;
+                background-size: cover;
+                width: 100vw;
+                height: 100vh;
+            }
+            }
+
+            @media (min-width: 200px) and (max-width:700px){
+                body{
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                .texto{
+                    padding-top: 57vh;
+                    padding-left: 7.5vw;
+                }
+                
+                .redes{
+                    margin-top: -4vw;
+                }
+                
+                
+                h1{
+                padding-bottom: -3vw;
+                font-size: 12vw;
+                font-family: coolvetica,sans-serif;
+                font-weight: 500;
+                font-style: normal;
+                color: white;
+                text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                }
+                
+                h2{
+                font-size: 12vw;
+                font-family: coolvetica,sans-serif;
+                font-weight: 500;
+                font-style: normal;
+                color: white;
+                margin-top: -12vw;
+                text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                }
+                
+                h3{
+                font-size: 6vw;
+                font-family: coolvetica,sans-serif;
+                font-weight: 500;
+                font-style: normal;
+                color: white;
+                margin-top: -12vw;
+                text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                }
+                
+                .principal{
+                    background-image: url("https://res.cloudinary.com/v-young/image/upload/v1656614154/Background_DBOX_Celular_ke8zfa.png");
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    width: 100vw;
+                    height: 100vh;
+                }
+                }
+
+                
